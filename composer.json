@@ -1,0 +1,19 @@
+{
+    "name": "prajnaavidya/url-utils",
+    "description": "Workaround for servers with file_get_contents() disabled for urls",
+    "authors": [
+        {
+            "name": "Rafiq Premji",
+            "email": "rafiq@prajnaconcepts.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.2.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "URLUtils": "src/"
+        }
+    }
+}
