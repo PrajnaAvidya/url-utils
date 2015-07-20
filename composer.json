@@ -5,7 +5,8 @@
     "authors": [
         {
             "name": "Rafiq Premji",
-            "email": "rafiq@prajnaconcepts.com"
+            "email": "rafiq@prajnaconcepts.com",
+            "homepage": "https://github.com/PrajnaAvidya"
         }
     ],
     "minimum-stability": "dev",
