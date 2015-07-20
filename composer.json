@@ -12,12 +12,7 @@
     "require": {
         "php": ">=5.2.0"
     },
-    "require-dev": {
-        "phpunit/phpunit": "4.7"
-    },
     "autoload": {
-        "psr-0": {
-            "URLUtils": "src/"
-        }
+        "files": ["src/URLUtils.php"]
     }
 }

@@ -1,5 +1,5 @@
 <?php
-use src\URLUtils;
+require_once __DIR__ . '/../vendor/autoload.php';
 
 class URLUtilsTest extends PHPUnit_Framework_TestCase
 {
